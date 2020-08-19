@@ -1,9 +1,6 @@
 import React from 'react';
 import EventPage from './EventsPage';
 import CategoryPage from './CategoriesPage';
-import { Link } from 'react-router-dom';
-import Nav from '../Components/Nav';
-import { Category } from '../Components/Category';
 
 const DashboardPage = () => (
   
