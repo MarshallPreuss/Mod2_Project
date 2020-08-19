@@ -29,7 +29,7 @@ const renderEvents = () => {
 
     return(
         <section>
-            <h1 className="postTitle">Natural Events</h1>
+            <h1 className="eventsTitle">Natural Events</h1>
             <br/>
             
     

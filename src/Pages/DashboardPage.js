@@ -11,8 +11,8 @@ const DashboardPage = () => (
   
   <section className="Board">
     
-    <h1 className="dashTitle">Dashboard</h1>
-    <p className="dashPar">This is the dashboard.</p>
+    <h1 className="dashTitle">Natural Disasters</h1>
+    <p className="dashPar">This is application allows you to find sources on certain events.</p>
     <br/>
     <table>
       <tr>

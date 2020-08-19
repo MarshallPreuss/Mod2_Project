@@ -29,7 +29,7 @@ const renderCategories = () => {
 
     return(
         <section>
-            <h1 className="postTitle">Categories</h1>
+            <h1 className="catTitle">Categories</h1>
             <br/>
             
     <br/>

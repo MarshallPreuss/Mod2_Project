@@ -21,16 +21,14 @@ background-color: blue;
 
 .Main{
   height: 1000px;
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 body{
-  background-color: grey;
+  background-image: url("https://i.ytimg.com/vi/oRiLLd2hX0E/maxresdefault.jpg");
+background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 nav{
@@ -55,6 +53,33 @@ margin-right: 100px;
 }
 
 .Article {
+  background-color: grey;
   border-top: solid black;
   color: darkblue;
+}
+
+.dashTitle {
+  background-color: grey;
+  border-top: solid black;
+  color: darkblue;
+  width: 115px;
+}
+
+.dashPar {
+  background-color: grey;
+  border-top: solid black;
+  color: darkblue;
+  width: 225px;
+}
+
+.eventsTitle {
+  background-color: grey;
+  color: Black;
+  width: 100px;
+}
+
+.catTitle {
+  background-color: grey;
+  color: Black;
+  width: 100px;
 }
